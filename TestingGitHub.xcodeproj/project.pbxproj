@@ -47,6 +47,7 @@
 		0F1D03301C9B0C8D00C45425 /* TestingGitHubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestingGitHubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F1D03341C9B0C8D00C45425 /* TestingGitHubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingGitHubUITests.swift; sourceTree = "<group>"; };
 		0F1D03361C9B0C8D00C45425 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0F9793731CA1C8CF0072F121 /* JuegoMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = JuegoMemoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				0F1D031B1C9B0C8D00C45425 /* Assets.xcassets */,
 				0F1D031D1C9B0C8D00C45425 /* LaunchScreen.storyboard */,
 				0F1D03201C9B0C8D00C45425 /* Info.plist */,
+				0F9793731CA1C8CF0072F121 /* JuegoMemoria.playground */,
 			);
 			path = TestingGitHub;
 			sourceTree = "<group>";
@@ -487,6 +489,7 @@
 				0F1D033B1C9B0C8D00C45425 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0F1D033C1C9B0C8D00C45425 /* Build configuration list for PBXNativeTarget "TestingGitHubTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +498,7 @@
 				0F1D033E1C9B0C8D00C45425 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0F1D033F1C9B0C8D00C45425 /* Build configuration list for PBXNativeTarget "TestingGitHubUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +507,7 @@
 				0F1D03411C9B0C8D00C45425 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
